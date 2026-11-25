@@ -1,0 +1,22 @@
+# Análisis Cuantitativo - Plan Estratégico Tulcán 2027-2030
+# Entorno: Python 3.11+ | Última actualización: 24-nov-2026
+
+# Núcleo científico
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# Estadística y econometría
+statsmodels>=0.14.1
+scikit-learn>=1.4.0
+
+# Visualización
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Exportación
+openpyxl>=3.1.2
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.29.0
